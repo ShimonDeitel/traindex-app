@@ -1,0 +1,28 @@
+{
+  "identifier" : "Traindex",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "3.99",
+      "familyShareable" : false,
+      "internalID" : "traindex_pro",
+      "localizations" : [
+        {
+          "description" : "Command mastery checklist with progress percentages",
+          "displayName" : "Traindex Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "traindex_pro",
+      "referenceName" : "Traindex Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
